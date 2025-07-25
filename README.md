@@ -5,7 +5,8 @@
 <h1 align="center">Hi 👋, I'm Rakib Mondal</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif">
+<img align="right" alt="Coding" width="450"
+padding-top="60" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndmcTdwbzhucmYydTFtc283amV2MXd3N3AzMzhtYW1qcGUwa2VvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rakibfeb&label=Profile%20views&color=0e75b6&style=flat" alt="rakibfeb" />
