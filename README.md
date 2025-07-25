@@ -45,13 +45,13 @@ padding-top="47" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndmcTdw
 
 ### 🚀 Pinned Project: Sarathi
 
-#### 🛣️ Sarathi – Smart Transportation Assistance App
-A project designed to help users navigate and manage transport more efficiently using real-time location, booking, and route optimization features.
+#### 🛣️ Sarathi – On Demand Driver Booking App
+A React Native platform that instantly connects professional drivers with car owners needing short-term driving services. Features real-time ride matching, GPS tracking, and comprehensive admin controls.
 
 > 🚀 Built with **React Native, Node.js, MongoDB**  
-> 📱 Role: Fullstack Developer  
-> 🔗 [View Project Repo](https://github.com/rakibfeb/sarathi) *(Update this with your actual repo link)*  
-> 🛠️ Key features: Live tracking, Smart booking UI, Bus & ride API
+> 📱 Role: Frontend Developer  
+> 🔗 [View Project Repo](https://github.com/rakibfeb/Sarathi/tree/master)
+> 🛠️ Key features: Real-time requests , Smart booking UI , Trip history , Dashboard , Ratings.
 
 ---
 
