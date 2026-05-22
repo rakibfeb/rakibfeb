@@ -37,8 +37,7 @@ padding-top="47" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndmcTdw
 
 ### 🔧 Languages & Tools
 
-  
-  <a href="https://developer.android.com" target="_blank"><img
+
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
@@ -60,21 +59,8 @@ padding-top="47" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndmcTdw
 ### 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibfeb&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibfeb&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibfeb" alt="GitHub Streak" />
-</p>
 
 ---
-
-### 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rakibfeb&theme=react-dark&bg_color=1a1b27&hide_border=true" alt="GitHub Activity Graph" />
-</p>
