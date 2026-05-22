@@ -56,11 +56,6 @@ padding-top="47" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndmcTdw
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibfeb&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
 
 ---
