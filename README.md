@@ -14,13 +14,8 @@ padding-top="47" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndmcTdw
 
 ---
 
-- 🔭 I’m currently working on **Nok – Social Media App for Gen Z**  
 - 🌱 I’m currently learning **Node.js**  
-- 👯 I’m looking to collaborate on **Nok**  
-- 🤝 I’m looking for help with **React Native + Backend**  
-- 💬 Ask me about **React Native, Node.js, MongoDB**  
 - 📫 How to reach me: **mondalrakib@yahoo.com**  
-- 📄 [View My Resume](https://drive.google.com/file/d/13ZlsXImzBpij93AdEYZDkvPQQiUdN_2h/view?usp=drivesdk)
 
 ---
 
@@ -39,27 +34,9 @@ padding-top="47" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndmcTdw
   <a href="https://auth.geeksforgeeks.org/user/paradoxymoron/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" />
   </a>
-</p>
 
----
-
-### 🚀 Pinned Project: Sarathi
-
-#### 🛣️ Sarathi – On Demand Driver Booking App
-A React Native platform that instantly connects professional drivers with car owners needing short-term driving services. Features real-time ride matching, GPS tracking, and comprehensive admin controls.
-
-> 🚀 Built with **React Native, Node.js, MongoDB**  
-> 📱 Role: Frontend Developer  
-> 🔗 [View Project Repo](https://github.com/rakibfeb/Sarathi/tree/master)
-> 🛠️ Key features: Real-time requests , Smart booking UI , Trip history , Dashboard , Ratings.
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"  <a href="https://aws.amazon.com" target=tent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
