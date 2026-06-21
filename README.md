@@ -1,61 +1,126 @@
-<!-- 🚀 Masthead Banner -->
-![Masterhead](https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/Everything-worth-knowing-about-Full-Stack-Development_banner.png)
-<br/>
+<!-- Banner -->
+<p align="center">
+  <img src="https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/Everything-worth-knowing-about-Full-Stack-Development_banner.png" alt="Banner">
+</p>
 
 <h1 align="center">Hi 👋, I'm Rakib Mondal</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
 
-<img align="right" alt="Coding" width="400"
-padding-top="47" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndmcTdwbzhucmYydTFtc283amV2MXd3N3AzMzhtYW1qcGUwa2VvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
+<h3 align="center">
+Full Stack Developer | Backend Enthusiast | DSA Problem Solver
+</h3>
+
+<img align="right" alt="Coding" width="350"
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndmcTdwbzhucmYydTFtc283amV2MXd3N3AzMzhtYW1qcGUwa2VvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
+
+## 🚀 About Me
+
+- 🌱 Currently learning **Node.js** and **System Design**
+- 💻 Passionate about **Backend Development**
+- 📚 Solved **250+ DSA Problems** across various coding platforms
+- 🚀 Building scalable web applications using the MERN stack
+- 🎯 Aspiring Software Engineer
+- 📫 Reach me at **mondalrakib@yahoo.com**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rakibfeb&label=Profile%20views&color=0e75b6&style=flat" alt="rakibfeb" />
+
+<a href="https://www.linkedin.com/in/rakib-mondal-092b56210">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/rakibfeb">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/rakib-mondal/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/paradoxymoron/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
 </p>
 
 ---
 
-- 🌱 I’m currently learning **Node.js**  
-- 📫 How to reach me: **mondalrakib@yahoo.com**  
-
----
-
-### 🌐 Connect with me
+## 🛠 Tech Stack
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rakib-mondal-092b56210" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rakib8feb" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/rakib-mondal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/paradoxymoron/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" />
-  </a>
-
-### 🔧 Languages & Tools
-
-
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,nodejs,express,mongodb,mysql,react,git,linux,postman&perline=6"/>
 </p>
 
 ---
 
+## 📊 Most Used Languages
 
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibfeb&layout=compact&theme=github_dark"/>
+</p>
 
 ---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📝 Personal Job Tracking Application
+
+> A full-stack application for tracking and managing job applications with authentication, filtering, and status history.
+
+#### 🛠 Tech Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+#### 🔗 Links
+
+<a href="https://github.com/rakibfeb/job-tracker-api">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://jobly-track-job.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🏏 Live Cricket Match Management System
+
+> A full-stack application for managing tournaments, teams, players, live scoring, scoreboards, and standings.
+
+#### 🛠 Tech Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+#### 🔗 Links
+
+<a href="https://github.com/rakibfeb/live-cricket-match-management-system">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://kirkit.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⚡ Fun Fact
+
+> **"First, solve the problem. Then, write the code."**
