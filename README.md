@@ -1,13 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/Everything-worth-knowing-about-Full-Stack-Development_banner.png" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2ea44f&height=220&section=header&text=Rakib%20Mondal&fontSize=48&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20DSA%20Problem%20Solver&descSize=18&descAlignY=68" alt="Rakib Mondal - Full Stack Developer | Backend Enthusiast | DSA Problem Solver" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Rakib Mondal</h1>
-
-<h3 align="center">
-Full Stack Developer | Backend Enthusiast | DSA Problem Solver
-</h3>
 
 <img align="right" alt="Coding" width="350"
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndmcTdwbzhucmYydTFtc283amV2MXd3N3AzMzhtYW1qcGUwa2VvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
